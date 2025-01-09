@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod2", "Mod2.csproj", "{B1FB4085-405D-46E4-963A-DD2B1F6F330B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vorony", "..\Count_voron\Vorony.csproj", "{2F545C59-F2A5-497F-B495-7E7F0D5578DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B1FB4085-405D-46E4-963A-DD2B1F6F330B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1FB4085-405D-46E4-963A-DD2B1F6F330B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1FB4085-405D-46E4-963A-DD2B1F6F330B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F545C59-F2A5-497F-B495-7E7F0D5578DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F545C59-F2A5-497F-B495-7E7F0D5578DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F545C59-F2A5-497F-B495-7E7F0D5578DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F545C59-F2A5-497F-B495-7E7F0D5578DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
